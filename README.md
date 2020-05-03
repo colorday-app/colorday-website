@@ -3,33 +3,23 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
+ColorDay is an ongoing full stack application based on personal interests. This repository is the frontend of the application built with Angular.
 
-## Development server
+The backend of ColorDay is built with Spring.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Development
 
-## Code scaffolding
+Verity the installation of `node` and `npm` with `which node` and `which npm` on your local desktop. If not present, run `brew install node` and `brew install npm` to install them.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Clone the repository to your local desktop and run `npm install` to download all dependencies. 
 
-## Build
+Run `npm start` to start the development server, and navigate to `http://localhost:4200/` in you browser. The app will automatically reload if there is any change on source files.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Contribution
 
-## Running unit tests
+There are many ways to contribute to this project. You may provide suggestions, request features, report issues, or even submit pull requests.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## Contributors ✨
+### Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
