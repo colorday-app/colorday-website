@@ -1,7 +1,10 @@
 # ColordayWebsite
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- BADGE:START -->
+[![Issues](https://img.shields.io/github/issues/brycenycuu/colorday-website)](https://github.com/brycenycuu/colorday-website/issues)
+[![Stars](https://img.shields.io/github/stars/brycenycuu/colorday-website)]()
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
+[![License](https://img.shields.io/github/license/brycenycuu/colorday-website)]()
+<!-- BADGE:END -->
 
 ColorDay is an ongoing full stack application based on personal interests. This repository is the frontend of the application built with Angular.
 
@@ -17,7 +20,7 @@ Run `npm start` to start the development server, and navigate to `http://localho
 
 ## Contribution
 
-There are many ways to contribute to this project. You may provide suggestions, request features, report issues, or even submit pull requests.
+There are many ways to contribute to this project. You may provide suggestions, request features, report issues, or even submit pull requests. Contributions of any kind welcome!
 
 ### Contributors ✨
 
@@ -36,4 +39,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
