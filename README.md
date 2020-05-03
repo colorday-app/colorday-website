@@ -1,10 +1,10 @@
-# ColordayWebsite
-<!-- BADGE:START -->
+# ColorDay Website
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![Issues](https://img.shields.io/github/issues/brycenycuu/colorday-website)](https://github.com/brycenycuu/colorday-website/issues)
 [![Stars](https://img.shields.io/github/stars/brycenycuu/colorday-website)]()
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
 [![License](https://img.shields.io/github/license/brycenycuu/colorday-website)]()
-<!-- BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ColorDay is an ongoing full stack application based on personal interests. This repository is the frontend of the application built with Angular.
 
