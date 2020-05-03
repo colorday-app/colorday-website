@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "brycenycuu",
+      "name": "Di Wu",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28286130?v=4",
+      "profile": "http://diwu.tech",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "colorday-website",
+  "projectOwner": "brycenycuu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
