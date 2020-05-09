@@ -1,5 +1,7 @@
 # ColorDay Website
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Build-Master](https://img.shields.io/azure-devops/build/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/5/master?label=build-prod)](https://dev.azure.com/brycenycuu/colorDay/_build?definitionId=5&_a=summary)
+[![Release-Master](https://img.shields.io/azure-devops/release/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/3/3?label=release-prod)](https://dev.azure.com/brycenycuu/colorDay/_release?view=all&_a=releases&definitionId=3)
 [![Issues](https://img.shields.io/github/issues/brycenycuu/colorday-website)](https://github.com/brycenycuu/colorday-website/issues)
 [![Stars](https://img.shields.io/github/stars/brycenycuu/colorday-website)]()
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
