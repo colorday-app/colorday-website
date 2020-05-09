@@ -21,6 +21,8 @@ Clone the repository to your local desktop and run `npm install` to download all
 
 Run `npm start` to start the development server, and navigate to `http://localhost:4200/` in you browser. The app will automatically reload if there is any change on source files.
 
+This repository uses [Azure Pipelines](https://dev.azure.com/brycenycuu/colorDay/_build) for CI/CD. Changes on `master` branch are built and automatically deployed to [Prod Website](https://colordayweb.azurewebsites.net), and changes on `dev` branch are built and automatically deployed to [Beta Website](https://colordaywebbeta.azurewebsites.net). Developers should always create PR to `dev` branch when contribute.
+
 ## Contribution
 
 There are many ways to contribute to this project. You may provide suggestions, request features, report issues, or even submit pull requests. Contributions of any kind welcome!
