@@ -1,15 +1,10 @@
 # ColorDay Website
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![Build-Master](https://img.shields.io/azure-devops/build/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/5/master?label=build-prod)](https://dev.azure.com/brycenycuu/colorDay/_build?definitionId=5&_a=summary)
 [![Test-Master](https://img.shields.io/azure-devops/tests/brycenycuu/colorDay/5/master?label=test-prod)](https://dev.azure.com/brycenycuu/colorDay/_build?definitionId=5&_a=summary)
 [![Release-Master](https://img.shields.io/azure-devops/release/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/3/3?label=release-prod)](https://dev.azure.com/brycenycuu/colorDay/_release?view=all&_a=releases&definitionId=3)
-
-[![Build-Dev](https://img.shields.io/azure-devops/build/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/7/master?label=build-beta)](https://dev.azure.com/brycenycuu/colorDay/_build?definitionId=7&_a=summary)
 [![Test-Dev](https://img.shields.io/azure-devops/tests/brycenycuu/colorDay/7/master?label=test-beta)](https://dev.azure.com/brycenycuu/colorDay/_build?definitionId=7&_a=summary)
 [![Release-Dev](https://img.shields.io/azure-devops/release/brycenycuu/59c751dd-bc15-46cb-9341-20abcd916e36/5/5?label=release-beta)](https://dev.azure.com/brycenycuu/colorDay/_release?view=all&_a=releases&definitionId=5)
-
 [![Issues](https://img.shields.io/github/issues/brycenycuu/colorday-website)](https://github.com/brycenycuu/colorday-website/issues)
-[![Stars](https://img.shields.io/github/stars/brycenycuu/colorday-website)]()
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat)](#contributors-)
 [![License](https://img.shields.io/github/license/brycenycuu/colorday-website)]()
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
