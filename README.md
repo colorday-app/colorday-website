@@ -11,7 +11,7 @@
 
 ColorDay is an ongoing full stack application based on personal interests. This repository is the frontend of the application built with Angular.
 
-The backend of ColorDay is built with Spring.
+The [backend of ColorDay](https://github.com/colorday-app/colorday-service) is built with Spring Boot.
 
 ## Development
 
