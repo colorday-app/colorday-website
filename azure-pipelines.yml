@@ -25,6 +25,6 @@ steps:
   inputs:
     SourceFolder: '$(System.DefaultWorkingDirectory)/dist/colorday-website'
     Contents: '**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)/'
     CleanTargetFolder: true
     OverWrite: true
