@@ -21,10 +21,13 @@ steps:
     ng build --prod
   displayName: 'npm install and build'
 
-- task: CopyFiles@2
+- task: ArchiveFiles@2
   inputs:
-    SourceFolder: '$(System.DefaultWorkingDirectory)/dist/colorday-website'
-    Contents: '**'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)/'
-    CleanTargetFolder: true
-    OverWrite: true
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/dist/colorday-website'
+    includeRootFolder: false
+  displayName: 'Archive Files'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+  displayName: 'Publish'
